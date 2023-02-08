@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# VIDEOS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A project which uses google's youtube api to fetch videos from youtube and display them to the user
 
 ## Available Scripts
 
